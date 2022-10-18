@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+body {
+    background-color: rgb(57, 157, 250);
+}
+
+#corpo {
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px ;    
+    position: relative;
+    padding: 0;
+    margin: auto;
+    box-shadow: 0px 0px 20px black;
+}
+
+#titulo {
+    position: relative;
+    color: RED;
+    text-align: center;
+    padding: 30px;
+    top: 10px;
+    font: normal 40pt Arial;
+    margin: 0;
+    text-shadow: 0px 0px 5px BLACK;
+
+}
+
+#copyright {
+    position: relative;
+    color: white;
+    text-align: center;
+    padding: 0;
+    top: 20px;
+}
+
+#img {
+    position: relative;
+    top:150px;
+    left: 110px;    
+    width: 280px;
+    height: 280px;
+    box-shadow: 0px 0px 20px black;
+    border-radius: 50%;
+}
+
+#msg {
+    color: white;
+    font: normal 15pt Arial;
+    text-align: center;
+    padding: 20px;
+}
+
+#h {
+    position: absolute;   
+    width: 80px;
+    height: 80px;
+    left: 120px;
+    top: 50px;
+    background-color: white;
+    border-radius: 7px;
+    box-shadow: 0px 0px 10px black;    
+    text-align: center;
+    font: normal 70px Arial;
+}
+
+#m { 
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 210px;
+    top: 50px;
+    background-color: white;
+    border-radius: 7px;
+    box-shadow: 0px 0px 10px black;
+    font: normal 70px Arial;
+    text-align: center;
+}
+
+#s { 
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: 300px;
+    top: 50px;
+    background-color: white;
+    border-radius: 7px;
+    box-shadow: 0px 0px 10px black;
+    font: normal 70px Arial;
+    text-align: center;
+}
+
